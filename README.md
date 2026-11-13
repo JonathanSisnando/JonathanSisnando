@@ -62,22 +62,14 @@
 
 <br>
 
-<!-- 5. PAINEL DE MÉTRICAS -->
-### `[ 0x03 // NETWORK_TELEMETRY_&_LOGS ]`
+<!-- 5. GRÁFICO DE ATIVIDADE -->
+### `[ 0x03 // EXPLOIT_TELEMETRY ]`
 
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanSisnando&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathanSisnando&theme=github_dark" />
-</div>
-
-<br>
-
-<!-- 6. GRÁFICO DE ATIVIDADE EM LARGURA TOTAL -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanSisnando&bg_color=080B10&color=00FF41&line=FF003C&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41&custom_title=EXPLOIT_ACTIVITY_//_CONTRIBUTION_GRAPH" width="100%" />
 </div>
 
-<!-- 7. RODAPÉ DE ENCERRAMENTO -->
+<!-- 6. RODAPÉ DE ENCERRAMENTO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,100:4A0010&height=100&section=footer&text=SESSION_TERMINATED_//_0x00&fontSize=15&fontColor=00FF41&fontAlignY=68" width="100%" />
 </div>
