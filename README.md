@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL -->
+<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL COMPATÍVEL -->
 <table>
   <tr>
     <td width="52%" valign="top">
@@ -34,7 +34,7 @@
 
 </td>
     <td width="48%" valign="middle" align="center">
-      <img src="./terminal.svg" width="100%" alt="C2 Terminal" />
+      <img src="https://raw.githubusercontent.com/JonathanSisnando/JonathanSisnando/main/terminal.svg" width="100%" alt="C2 Terminal" />
     </td>
   </tr>
 </table>
@@ -62,14 +62,28 @@
 
 <br>
 
-<!-- 5. GRÁFICO DE ATIVIDADE -->
-### `[ 0x03 // EXPLOIT_TELEMETRY ]`
+<!-- 5. PAINEL DE MÉTRICAS -->
+### `[ 0x03 // NETWORK_TELEMETRY_&_LOGS ]`
 
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanSisnando&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathanSisnando&theme=github_dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanSisnando&background=080B10&border=00FF41&stroke=00FF41&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=8B949E" width="68%" />
+</div>
+
+<br>
+
+<!-- 6. GRÁFICO DE ATIVIDADE EM LARGURA TOTAL -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanSisnando&bg_color=080B10&color=00FF41&line=FF003C&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41&custom_title=EXPLOIT_ACTIVITY_//_CONTRIBUTION_GRAPH" width="100%" />
 </div>
 
-<!-- 6. RODAPÉ DE ENCERRAMENTO -->
+<!-- 7. RODAPÉ DE ENCERRAMENTO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,100:4A0010&height=100&section=footer&text=SESSION_TERMINATED_//_0x00&fontSize=15&fontColor=00FF41&fontAlignY=68" width="100%" />
 </div>
