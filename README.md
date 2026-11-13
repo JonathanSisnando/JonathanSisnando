@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL COMPATÍVEL -->
+<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL -->
 <table>
   <tr>
     <td width="52%" valign="top">
@@ -68,12 +68,6 @@
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanSisnando&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathanSisnando&theme=github_dark" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanSisnando&background=080B10&border=00FF41&stroke=00FF41&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=8B949E" width="68%" />
 </div>
 
 <br>
