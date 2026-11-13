@@ -1,26 +1,18 @@
 <svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo Principal da Janela -->
   <rect x="2" y="2" width="896" height="356" rx="10" fill="#080B10" stroke="#00FF41" stroke-width="1.5" />
-
-  <!-- Barra Superior do Terminal -->
   <path d="M2 12C2 6.47715 6.47715 2 12 2H888C893.523 2 898 6.47715 898 12V34H2V12Z" fill="#111622" />
   <line x1="2" y1="34" x2="898" y2="34" stroke="#1F2937" stroke-width="1" />
-
-  <!-- Botões da Janela -->
   <circle cx="22" cy="18" r="5.5" fill="#FF5F56" />
   <circle cx="40" cy="18" r="5.5" fill="#FFBD2E" />
   <circle cx="58" cy="18" r="5.5" fill="#27C93F" />
-  <text x="450" y="22" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8B949E">root@jonathansisnando-c2: ~/qa_ops/whoami.sh -- zsh -- 110x32</text>
+  <text x="450" y="22" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8B949E">root@jonathansisnando-c2: ~/qa_ops/whoami.sh -- zsh</text>
 
-  <!-- COLUNA ESQUERDA: EMBLEMA BLACK HAT -->
   <polygon points="145,56 212,95 212,173 145,212 78,173 78,95" fill="#0D121D" stroke="#FF003C" stroke-width="2" />
   <polygon points="145,63 205,98 205,170 145,205 85,170 85,98" fill="none" stroke="#00FF41" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="4 3" />
 
-  <!-- Capuz Black Hat -->
   <path d="M145 74 C112 74 96 104 96 144 L108 180 L182 180 L194 144 C194 104 178 74 145 74 Z" fill="#161E2E" stroke="#00FF41" stroke-width="1.5" />
   <path d="M145 90 C122 90 112 112 112 142 L122 172 L168 172 L178 142 C178 112 168 90 145 90 Z" fill="#05070A" />
 
-  <!-- Olhos Cibernéticos Pulsantes -->
   <polygon points="120,130 140,136 136,143 118,137" fill="#FF003C">
     <animate attributeName="opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite" />
   </polygon>
@@ -28,22 +20,18 @@
     <animate attributeName="opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite" />
   </polygon>
 
-  <!-- Máscara Tática -->
   <line x1="129" y1="156" x2="161" y2="156" stroke="#00FF41" stroke-width="1.5" />
   <line x1="133" y1="163" x2="157" y2="163" stroke="#00FF41" stroke-width="1.5" />
 
-  <!-- Telemetria abaixo do Emblema -->
   <text x="145" y="236" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1" fill="#FF003C">[ QA ACCESS: GRANTED ]</text>
-  <text x="145" y="258" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1" fill="#8B949E">NODE // PARANA_BR_0x00</text>
+  <text x="145" y="258" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1" fill="#8B949E">NODE // PARANA_BR</text>
   <text x="145" y="280" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1" fill="#00FF41">BUG_HUNTING // ACTIVE</text>
   <text x="145" y="302" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1" fill="#00F0FF">MODE // ZERO_DEFECTS</text>
 
-  <!-- Divisória Vertical -->
   <line x1="278" y1="50" x2="278" y2="335" stroke="#1F2937" stroke-width="1.5" stroke-dasharray="6 4" />
 
-  <!-- COLUNA DIREITA: PAINEL C2 -->
   <text x="302" y="68" font-family="monospace" font-size="13" font-weight="bold" fill="#FF003C">[root@jonathansisnando]-[~]</text>
-  <text x="302" y="88" font-family="monospace" font-size="13" fill="#E6EDF3">$ ./qa_recon.sh --suite=e2e-api-mobile --stealth</text>
+  <text x="302" y="88" font-family="monospace" font-size="13" fill="#E6EDF3">$ ./qa_recon.sh --suite=e2e-api-mobile</text>
 
   <text x="302" y="118" font-family="monospace" font-size="13" font-weight="bold" fill="#00FF41">[+] OPERATOR  :: <tspan font-weight="normal" fill="#C9D1D9">Jonathan Gabriel Sisnando</tspan></text>
   <text x="302" y="140" font-family="monospace" font-size="13" font-weight="bold" fill="#00FF41">[+] CLASS     :: <tspan font-weight="normal" fill="#C9D1D9">Analista de Testes / QA Engineer</tspan></text>
@@ -52,7 +40,6 @@
 
   <line x1="302" y1="202" x2="872" y2="202" stroke="#1F2937" stroke-width="1" />
 
-  <!-- Barras de Progresso Estilo Cyber-HUD -->
   <text x="302" y="226" font-family="monospace" font-size="11" font-weight="bold" fill="#8B949E">E2E_AUTOMATION</text>
   <rect x="430" y="216" width="375" height="10" rx="2" fill="#111622" stroke="#1F2937" />
   <rect x="430" y="216" width="345" height="10" rx="2" fill="#00FF41" />
@@ -68,6 +55,5 @@
   <rect x="430" y="268" width="356" height="10" rx="2" fill="#FF003C" />
   <text x="820" y="278" font-family="monospace" font-size="11" font-weight="bold" fill="#FF003C">95%</text>
 
-  <!-- Linha de Comando Ativa com Cursor a Piscar -->
-  <text x="302" y="320" font-family="monospace" font-size="13" font-weight="bold" fill="#FF003C">root@jonathan:~# <tspan font-weight="normal" fill="#E6EDF3">npx playwright test --project=chromium </tspan><tspan fill="#00FF41">_</tspan></text>
+  <text x="302" y="320" font-family="monospace" font-size="13" font-weight="bold" fill="#FF003C">root@jonathan:~# <tspan font-weight="normal" fill="#E6EDF3">npx playwright test </tspan><tspan fill="#00FF41">_</tspan></text>
 </svg>
