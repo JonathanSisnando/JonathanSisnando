@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL LOCAL -->
+<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL COMPATÍVEL -->
 <table>
   <tr>
     <td width="52%" valign="top">
@@ -34,7 +34,7 @@
 
 </td>
     <td width="48%" valign="middle" align="center">
-      <img src="./terminal.svg" width="100%" alt="C2 Terminal" />
+      <img src="https://raw.githubusercontent.com/JonathanSisnando/JonathanSisnando/main/terminal.svg" width="100%" alt="C2 Terminal" />
     </td>
   </tr>
 </table>
