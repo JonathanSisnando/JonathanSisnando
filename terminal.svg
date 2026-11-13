@@ -1,0 +1,106 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Padrão de Scanlines (efeito monitor hacker CRT) -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#00FF41" stroke-opacity="0.04" stroke-width="1" />
+    </pattern>
+
+    <!-- Brilho Neon Verde e Vermelho -->
+    <filter id="glow-green" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-red" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; }
+    .title { font-size: 12px; fill: #8B949E; font-weight: 600; }
+    .prompt-root { font-size: 13px; fill: #FF003C; font-weight: 700; }
+    .prompt-cmd { font-size: 13px; fill: #E6EDF3; }
+    .key { font-size: 13px; fill: #00FF41; font-weight: 700; }
+    .val { font-size: 13px; fill: #C9D1D9; }
+    .alert { font-size: 13px; fill: #FF003C; font-weight: 700; }
+    .stat-label { font-size: 11px; fill: #8B949E; font-weight: 700; }
+    .stat-val { font-size: 11px; fill: #00FF41; font-weight: 700; }
+    .hud-tag { font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+  </style>
+
+  <!-- Fundo Principal da Janela -->
+  <rect x="2" y="2" width="896" height="356" rx="10" fill="#080B10" stroke="#00FF41" stroke-opacity="0.45" stroke-width="1.5" />
+  <rect x="2" y="2" width="896" height="356" rx="10" fill="url(#scanlines)" />
+
+  <!-- Barra Superior do Terminal -->
+  <path d="M2 12C2 6.47715 6.47715 2 12 2H888C893.523 2 898 6.47715 898 12V34H2V12Z" fill="#111622" />
+  <line x1="2" y1="34" x2="898" y2="34" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Botões da Janela -->
+  <circle cx="22" cy="18" r="5.5" fill="#FF5F56" />
+  <circle cx="40" cy="18" r="5.5" fill="#FFBD2E" />
+  <circle cx="58" cy="18" r="5.5" fill="#27C93F" />
+  <text x="450" y="22" text-anchor="middle" class="font-mono title">root@jonathan-c2: ~/recon/whoami.sh — zsh — 110x32</text>
+
+  <!-- ================= COLUNA ESQUERDA: EMBLEMA BLACK HAT ================= -->
+  <!-- Hexágono Externo -->
+  <polygon points="145,56 212,95 212,173 145,212 78,173 78,95" fill="#0D121D" stroke="#FF003C" stroke-width="1.5" filter="url(#glow-red)" />
+  <polygon points="145,63 205,98 205,170 145,205 85,170 85,98" fill="none" stroke="#00FF41" stroke-opacity="0.3" stroke-width="1" stroke-dasharray="4 3" />
+
+  <!-- Capuz Black Hat -->
+  <path d="M145 74 C112 74 96 104 96 144 L108 180 L182 180 L194 144 C194 104 178 74 145 74 Z" fill="#161E2E" stroke="#00FF41" stroke-width="1.5" />
+  <!-- Sombra Interna do Rosto -->
+  <path d="M145 90 C122 90 112 112 112 142 L122 172 L168 172 L178 142 C178 112 168 90 145 90 Z" fill="#05070A" />
+
+  <!-- Olhos Cibernéticos Pulsantes -->
+  <polygon points="120,130 140,136 136,143 118,137" fill="#FF003C" filter="url(#glow-red)">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite" />
+  </polygon>
+  <polygon points="170,130 150,136 154,143 172,137" fill="#FF003C" filter="url(#glow-red)">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite" />
+  </polygon>
+
+  <!-- Máscara / Respirador Tático -->
+  <line x1="129" y1="156" x2="161" y2="156" stroke="#00FF41" stroke-width="1.5" />
+  <line x1="133" y1="163" x2="157" y2="163" stroke="#00FF41" stroke-width="1.5" />
+
+  <!-- Telemetria abaixo do Emblema -->
+  <text x="145" y="236" text-anchor="middle" class="font-mono hud-tag" fill="#FF003C">[ ROOT ACCESS: GRANTED ]</text>
+  <text x="145" y="258" text-anchor="middle" class="font-mono hud-tag" fill="#8B949E">NODE // MANAUS_BR_0x00</text>
+  <text x="145" y="280" text-anchor="middle" class="font-mono hud-tag" fill="#00FF41">THREAT_LVL // CRITICAL</text>
+  <text x="145" y="302" text-anchor="middle" class="font-mono hud-tag" fill="#00F0FF">MODE // STEALTH_OPS</text>
+
+  <!-- Divisória Vertical -->
+  <line x1="278" y1="50" x2="278" y2="335" stroke="#1F2937" stroke-width="1.5" stroke-dasharray="6 4" />
+
+  <!-- ================= COLUNA DIREITA: PAINEL C2 ================= -->
+  <text x="302" y="68" class="font-mono prompt-root">┌──(root㉿jonathan)-[~]</text>
+  <text x="302" y="88" class="font-mono prompt-cmd">└─$ ./c2_recon.sh --target=profile --bypass-fw</text>
+
+  <text x="302" y="118" class="font-mono key">[+] OPERATOR  :: <tspan class="val">Jonathan Gabriel</tspan></text>
+  <text x="302" y="140" class="font-mono key">[+] CLASS     :: <tspan class="val">QA Engineer & Full-Stack Developer</tspan></text>
+  <text x="302" y="162" class="font-mono key">[+] ARSENAL   :: <tspan class="val">TypeScript • Python • Angular • React • Docker</tspan></text>
+  <text x="302" y="184" class="font-mono alert">[!] DIRECTIVE :: <tspan class="val">Breaking systems before attackers do.</tspan></text>
+
+  <line x1="302" y1="202" x2="872" y2="202" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Barras de Progresso Estilo Cyber-HUD -->
+  <text x="302" y="226" class="font-mono stat-label">QA_AUTOMATION</text>
+  <rect x="425" y="216" width="380" height="10" rx="2" fill="#111622" stroke="#1F2937" />
+  <rect x="425" y="216" width="335" height="10" rx="2" fill="#00FF41" filter="url(#glow-green)" />
+  <text x="820" y="226" class="font-mono stat-val">88%</text>
+
+  <text x="302" y="252" class="font-mono stat-label">FULLSTACK_DEV</text>
+  <rect x="425" y="242" width="380" height="10" rx="2" fill="#111622" stroke="#1F2937" />
+  <rect x="425" y="242" width="312" height="10" rx="2" fill="#00FF41" filter="url(#glow-green)" />
+  <text x="820" y="252" class="font-mono stat-val">82%</text>
+
+  <text x="302" y="278" class="font-mono stat-label">API_SECURITY</text>
+  <rect x="425" y="268" width="380" height="10" rx="2" fill="#111622" stroke="#1F2937" />
+  <rect x="425" y="268" width="325" height="10" rx="2" fill="#FF003C" filter="url(#glow-red)" />
+  <text x="820" y="278" class="font-mono stat-val" style="fill:#FF003C">85%</text>
+
+  <!-- Linha de Comando Ativa com Cursor a Piscar -->
+  <text x="302" y="320" class="font-mono prompt-root">root@jonathan:~# <tspan class="prompt-cmd">tail -f /var/log/exploits.log </tspan><tspan fill="#00FF41">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" /></tspan></text>
+</svg>
