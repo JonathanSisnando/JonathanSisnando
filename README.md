@@ -34,7 +34,7 @@
 
 </td>
     <td width="48%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/JonathanSisnando/JonathanSisnando/main/terminal.svg" width="100%" alt="C2 Terminal" />
+      <img src="./terminal.svg" width="100%" alt="C2 Terminal" />
     </td>
   </tr>
 </table>
