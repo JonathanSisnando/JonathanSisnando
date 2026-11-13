@@ -5,14 +5,14 @@
 
 <!-- 2. BARRA DE STATUS & TELEMETRIA RÁPIDA -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonathansisnando&label=TARGET_SCANS&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JonathanSisnando&label=TARGET_SCANS&color=00FF41&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-HUNTING_BUGS-FF003C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/NODE-NOVA_ESPERANCA_DO_SUDOESTE_//_PR-080B10?style=for-the-badge&logo=gnubash&logoColor=00FF41" alt="Node" />
 </div>
 
 <br>
 
-<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL EMBUTIDO -->
+<!-- 3. LAYOUT DE DUAS COLUNAS COM O TERMINAL LOCAL -->
 <table>
   <tr>
     <td width="52%" valign="top">
@@ -30,11 +30,11 @@
 **`> COMUNICAÇÃO CRIPTOGRAFADA:`**<br>
 <a href="https://www.linkedin.com/in/jonathansisnando/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-080B10?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 <a href="mailto:jonathansisnando.qa@gmail.com"><img src="https://img.shields.io/badge/Gmail_/_QA-080B10?style=for-the-badge&logo=gmail&logoColor=FF003C" /></a>
-<a href="https://github.com/jonathansisnando" target="_blank"><img src="https://img.shields.io/badge/Mainframe-080B10?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+<a href="https://github.com/JonathanSisnando" target="_blank"><img src="https://img.shields.io/badge/Mainframe-080B10?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 
 </td>
     <td width="48%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/jonathansisnando/jonathansisnando/main/terminal.svg" width="100%" alt="C2 Terminal" />
+      <img src="./terminal.svg" width="100%" alt="C2 Terminal" />
     </td>
   </tr>
 </table>
@@ -66,21 +66,21 @@
 ### `[ 0x03 // NETWORK_TELEMETRY_&_LOGS ]`
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathansisnando&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathansisnando&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanSisnando&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathanSisnando&theme=github_dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansisnando&background=080B10&border=00FF41&stroke=00FF41&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=8B949E" width="68%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanSisnando&background=080B10&border=00FF41&stroke=00FF41&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=8B949E" width="68%" />
 </div>
 
 <br>
 
 <!-- 6. GRÁFICO DE ATIVIDADE EM LARGURA TOTAL -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathansisnando&bg_color=080B10&color=00FF41&line=FF003C&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41&custom_title=EXPLOIT_ACTIVITY_//_CONTRIBUTION_GRAPH" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanSisnando&bg_color=080B10&color=00FF41&line=FF003C&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41&custom_title=EXPLOIT_ACTIVITY_//_CONTRIBUTION_GRAPH" width="100%" />
 </div>
 
 <!-- 7. RODAPÉ DE ENCERRAMENTO -->
