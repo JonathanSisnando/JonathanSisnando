@@ -21,11 +21,21 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência como *
 ### Stack & Ferramentas
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=playwright,cypress,ts,js,py,postman,git,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=playwright,cypress,ts,js,py,postman,git,githubactions&theme=light" />
-    <img alt="Stack de QA" src="https://skillicons.dev/icons?i=playwright,cypress,ts,js,py,postman,git,githubactions&theme=dark" />
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright" title="Playwright" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="38" height="38" alt="Cypress" title="Cypress" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
 **Frentes de atuação:** `Testes E2E` · `APIs REST` · `Web` · `Mobile` · `Validação de Contratos` · `Testes Exploratórios` · `CI/CD`
