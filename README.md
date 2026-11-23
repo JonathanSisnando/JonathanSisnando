@@ -1,67 +1,48 @@
-<!-- 1. BANNER PANORÂMICO DE TOPO -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080B10,50:111622,100:4A0010&amp;height=210&amp;section=header&amp;text=JONATHAN%20SISNANDO&amp;fontSize=46&amp;fontColor=00FF41&amp;fontAlignY=38&amp;desc=root%40c2:~%23%20Analista%20de%20Testes%2FQA%20%7C%20Cypress%20%7C%20Playwright%20%7C%20API%20%26%20Mobile&amp;descSize=15&amp;descColor=FF003C&amp;descAlignY=62&amp;animation=fadeIn" width="100%" />
-</div>
+# Olá, eu sou o Jonathan Sisnando
 
-<!-- 2. BANNER DE DIGITAÇÃO (TYPING SVG) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=root%40github%3A~%23+initializing+system...;Access+Granted.+Welcome+to+my+network.;QA+Engineer+%7C+Automation+%7C+Security+Mindset" alt="Typing SVG" />
-  </a>
-</div>
+**Analista de Testes / QA Engineer** focado em automação E2E, testes de API e qualidade de software de ponta a ponta.
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/jonathansisnando/)
+[![Email](https://img.shields.io/badge/jonathansisnando.qa%40gmail.com-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathansisnando.qa@gmail.com)
 
-<!-- 3. BARRA DE STATUS &amp; TELEMETRIA RÁPIDA -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JonathanSisnando&amp;label=TARGET_SCANS&amp;color=00FF41&amp;style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-HUNTING_BUGS-FF003C?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/NODE-NOVA_ESPERANCA_DO_SUDOESTE_PR-080B10?style=for-the-badge&amp;logo=gnubash&amp;logoColor=00FF41" alt="Node" />
-</div>
+---
 
-<br>
+### Sobre
 
-<!-- 4. LAYOUT DE DUAS COLUNAS (TEXTO + TERMINAL SVG) -->
-<table>
-  <tr>
-    <td width="52%" valign="top">
+Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência como **Estagiário de Testes de Software no Instituto de Tecnologia Conecthus**. Atuo na criação de suítes automatizadas resilientes e na validação estratégica de aplicações web, mobile e APIs REST — identificando falhas críticas antes do deploy.
 
-### `[ 0x01 // SYSTEM_OVERRIDE ]`
+- **Automação E2E:** Suítes ponta a ponta com **Playwright** e **Cypress**
+- **Testes de API:** Validação funcional, testes de contrato e integração contínua (**CI/CD**)
+- **Testes Manuais & Exploratórios:** Mapeamento de cenários críticos, documentação de bugs e prevenção de regressões
+- **Base:** Nova Esperança do Sudoeste, PR — Brasil
 
-- 🕷️ **Operação Atual:** Analista de Testes / QA focado em encontrar falhas críticas e blindar a qualidade de software antes do deploy.
-- 🛡️ **Especialidades:** Testes Automatizados, Testes Manuais &amp; Exploratórios, Testes Web, Mobile e de APIs REST.
-- ⚡ **Automação &amp; Frameworks:** Criação de suítes resilientes E2E com **Playwright** e **Cypress**, integração em CI/CD e validação de contratos.
-- 📍 **Base de Operações:** Nova Esperança do Sudoeste, Paraná — Brasil.
-- 📡 **Canal Direto:** **jonathansisnando.qa@gmail.com**
+---
 
-<br>
+### Stack & Ferramentas
 
-**`> COMUNICAÇÃO CRIPTOGRAFADA:`**<br>
-<a href="https://www.linkedin.com/in/jonathansisnando/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-080B10?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00FF41" /></a>
-<a href="mailto:jonathansisnando.qa@gmail.com"><img src="https://img.shields.io/badge/Gmail_/_QA-080B10?style=for-the-badge&amp;logo=gmail&amp;logoColor=FF003C" /></a>
-<a href="https://github.com/JonathanSisnando" target="_blank"><img src="https://img.shields.io/badge/Mainframe-080B10?style=for-the-badge&amp;logo=github&amp;logoColor=00FF41" /></a>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=playwright,cypress,ts,js,py,postman,git,githubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=playwright,cypress,ts,js,py,postman,git,githubactions&theme=light" />
+    <img alt="Stack de QA" src="https://skillicons.dev/icons?i=playwright,cypress,ts,js,py,postman,git,githubactions&theme=dark" />
+  </picture>
+</p>
 
-</td>
-    <td width="48%" valign="middle" align="center">
-      <img src="./terminal.svg" width="100%" alt="C2 Terminal" />
-    </td>
-  </tr>
-</table>
+**Frentes de atuação:** `Testes E2E` · `APIs REST` · `Web` · `Mobile` · `Validação de Contratos` · `Testes Exploratórios` · `CI/CD`
 
-<br>
+---
 
-<!-- 5. ARSENAL &amp; TECNOLOGIAS DE QA -->
-### `[ 0x02 // QA_ARSENAL_&_PAYLOADS ]`
+### Projetos em Destaque
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Playwright-080B10?style=for-the-badge&amp;logo=playwright&amp;logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Cypress-080B10?style=for-the-badge&amp;logo=cypress&amp;logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/API_Testing-080B10?style=for-the-badge&amp;logo=postman&amp;logoColor=FF003C" />
-  <img src="https://img.shields.io/badge/Web_Testing-080B10?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Mobile_Testing-080B10?style=for-the-badge&amp;logo=android&amp;logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Manual_&amp;_Exploratory_QA-080B10?style=for-the-badge&amp;logo=bugcrowd&amp;logoColor=FF003C" />
-  <br>
-  <img src="https://img.shields.io/badge/TypeScript-080B10?style=for-the-badge&amp;logo=typescript&amp;logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/JavaScript-080B10?style=for-the-badge&amp;logo=javascript&amp;logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Python-080B10?style=for-the-badge&amp;logo=python&amp;logoColor=00FF41" />
-  <img src="   
+> *(Substitua os links e nomes abaixo pelos seus 2 ou 3 melhores repositórios de QA)*
+
+- **[Automação E2E com Playwright](https://github.com/JonathanSisnando)** — Suíte ponta a ponta com TypeScript, Page Objects e execução automatizada em CI/CD.
+- **[Testes Automatizados de API](https://github.com/JonathanSisnando)** — Validação de endpoints REST, status codes e contratos com geração de relatório.
+- **[Plano de Testes & Qualidade](https://github.com/JonathanSisnando)** — Casos de teste estruturados, cenários exploratórios e modelo de reporte de bugs.
+
+---
+
+### Contato
+
+Aberto a oportunidades na área de **QA / Engenharia de Qualidade** e conexões na área de tecnologia.  
+Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/jonathansisnando/) ou envie um e-mail para **jonathansisnando.qa@gmail.com**.
