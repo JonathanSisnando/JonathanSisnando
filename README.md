@@ -44,7 +44,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência como *
 
 ### Projetos em Destaque
 
-> *(Substitua os links e nomes abaixo pelos seus 2 ou 3 melhores repositórios de QA)*
+
 
 - **[Automação E2E com Playwright](https://github.com/JonathanSisnando)** — Suíte ponta a ponta com TypeScript, Page Objects e execução automatizada em CI/CD.
 - **[Testes Automatizados de API](https://github.com/JonathanSisnando)** — Validação de endpoints REST, status codes e contratos com geração de relatório.
